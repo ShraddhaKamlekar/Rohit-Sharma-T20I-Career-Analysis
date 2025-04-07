@@ -26,8 +26,8 @@ Power BI
 - Dashboard storytelling and layout design
 
 📁 Files Included:
-- Cleaned dataset (CSV/Excel)
+- Dataset (Excel)
 
 - Power BI dashboard file (.pbix)
 
-- Dashboard screenshots for quick preview
+- Dashboard screenshot for quick preview
