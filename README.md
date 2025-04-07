@@ -21,8 +21,6 @@ Power BI
 
 - Power Query for data cleaning
 
-- DAX for calculated measures
-
 - Interactive visualizations using bar charts, line graphs, pie charts, slicers
 
 - Dashboard storytelling and layout design
